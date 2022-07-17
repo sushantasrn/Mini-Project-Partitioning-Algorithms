@@ -1,0 +1,7 @@
+No of nodes:
+Enter number of edges
+Enter edges
+final_G1 is 
+1 2 5 6 
+final_G2 is 
+3 4 7 8 
